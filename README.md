@@ -42,3 +42,11 @@ npm run dev
 - **Unidad académica:** UPIICSA.
 - **Asignatura:** Diseño de Interfaces de Usuario.
 - **Docente:** Fátima Margarita Lechuga Blanco.
+
+## Estado del proyecto
+
+El proyecto REGISTRA-IP se inicializó utilizando React y Vite.
+
+El entorno de desarrollo está configurado para ejecutar la aplicación localmente mediante npm.
+
+Esta entrega corresponde a la Práctica 1 de Diseño de Interfaces de Usuario del Instituto Politécnico Nacional, UPIICSA.
