@@ -506,3 +506,24 @@ a {
     font-size: 23px;
   }
 }
+
+
+.btn-registrar-obra {
+  display: block;
+  width: 100%;
+  padding: 13px 20px;
+  margin-top: 22px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #2563EB;
+  color: #FFFFFF;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.btn-registrar-obra:hover {
+  background: #1D4ED8;
+}
