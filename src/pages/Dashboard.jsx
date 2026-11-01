@@ -52,6 +52,13 @@ function Dashboard() {
           </div>
 
           <button
+            className="btn-registrar-obra"
+            onClick={() => navigate("/registrar-obra")}
+          >
+            Registrar nueva obra
+          </button>
+
+          <button
             className="btn-cerrar"
             onClick={cerrarSesion}
           >
