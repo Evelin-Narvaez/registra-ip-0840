@@ -12,6 +12,7 @@ import Registro from "./pages/Registro";
 import Dashboard from "./pages/Dashboard";
 import RegistrarObra from "./pages/RegistrarObra";
 import RutaProtegida from "./components/RutaProtegida";
+import Galeria from "./pages/Galeria";
 
 function App() {
   return (
@@ -40,6 +41,15 @@ function App() {
             </RutaProtegida>
           }
         />
+
+          <Route
+            path="/galeria"
+            element={
+              <RutaProtegida>
+                <Galeria />
+              </RutaProtegida>
+            }
+          />
 
         <Route
           path="*"
